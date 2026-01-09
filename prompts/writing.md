@@ -4,26 +4,9 @@
 These prompts help improve clarity, tone, and structure when writing with AI.  
 They are designed to support clear communication across professional, technical, and general contexts without overproducing or losing intent.
 
----
 
-## Prompt 1: Clarify and tighten
-**Use when:** Your writing feels long, unclear, or unfocused.
 
-**Prompt:**
-> Rewrite the following text to improve clarity and conciseness.  
-> Preserve the original meaning and intent.  
-> Remove unnecessary words and repetition.  
-> Do not add new ideas.
-
-### Example prompt (before)
-> This document is intended to provide a comprehensive and detailed explanation of the various different reasons, factors, and contributing elements that may, under certain circumstances and conditions, result in the process not functioning or performing in the way that was originally expected or planned.
-
-### Expected output (after)
-> This document explains the key reasons why the process may not perform as expected in certain situations.
-
----
-
-## Prompt 2: Adjust tone for audience
+## Prompt 1: Adjust tone for audience
 **Use when:** You need to adapt writing for a specific audience or context.
 
 **Prompt:**
@@ -72,7 +55,25 @@ You can explicitly ask for one or more tones. If you’re unsure which to use, t
 - Clear and appropriate level of detail
 - No unnecessary jargon
 
----
+
+
+## Prompt 2: Clarify and tighten
+**Use when:** Your writing feels long, unclear, or unfocused.
+
+**Prompt:**
+> Rewrite the following text to improve clarity and conciseness.  
+> Preserve the original meaning and intent.  
+> Remove unnecessary words and repetition.  
+> Do not add new ideas.
+
+### Example prompt (before)
+> This document is intended to provide a comprehensive and detailed explanation of the various different reasons, factors, and contributing elements that may, under certain circumstances and conditions, result in the process not functioning or performing in the way that was originally expected or planned.
+
+### Expected output (after)
+> This document explains the key reasons why the process may not perform as expected in certain situations.
+
+
+
 
 ## Prompt 3: Structure unorganized thoughts
 **Use when:** You have ideas but no clear structure.
@@ -93,7 +94,7 @@ You can speak freely, transcribe the audio, and let the AI organize your thought
 - Clear sections and headings
 - No added content
 
----
+
 
 ## Prompt 4: Executive summary
 **Use when:** You need a high-level summary for decision-makers.
@@ -109,7 +110,7 @@ You can speak freely, transcribe the audio, and let the AI organize your thought
 ### Expected output (after)
 > The project has made measurable progress, but delivery risks remain due to resource constraints and external dependencies. Immediate reprioritization and targeted resource support are recommended to stabilize timelines and mitigate budget impact.
 
----
+
 
 ## Prompt 5: Rewrite for clarity without simplification
 **Use when:** You want clearer writing without reducing depth or accuracy.
@@ -124,7 +125,7 @@ You can speak freely, transcribe the audio, and let the AI organize your thought
 ### Expected output (after)
 > The system uses asynchronous processing to improve throughput while keeping latency within acceptable limits across distributed components.
 
----
+
 
 ## Prompt 6: Remove ambiguity
 **Use when:** Wording could be misinterpreted.
@@ -142,7 +143,7 @@ You can speak freely, transcribe the audio, and let the AI organize your thought
 - A precise rewritten version
 - Brief explanation of the ambiguity
 
----
+
 
 ## Notes
 - Expected outputs illustrate structure and quality, not exact wording.
