@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <name>Sample XML File</name>
+    <description>
+        This XML file exists for no other reason than to exist.
+        It is valid, well-formed, and mildly confident.
+    </description>
+
+    <metadata>
+        <author>Xexin Kansichi</author>
+        <created>2026-02-03</created>
+        <version>1.0.0</version>
+        <status>stable</status>
+    </metadata>
+
+    <settings>
+        <setting key="meaning_of_life" value="42"/>
+        <setting key="debug_mode" value="false"/>
+        <setting key="vibes" value="immaculate"/>
+    </settings>
+
+    <notes>
+        <note id="1">This file does nothing.</note>
+        <note id="2">It will not break your repo.</note>
+        <note id="3">It may confuse future archaeologists.</note>
+    </notes>
+</project>
