@@ -1,0 +1,2 @@
+# Force GitHub Linguist to treat Markdown as a counted language
+*.md linguist-language=Markdown
