@@ -6,7 +6,7 @@ AI Prime Prompts is a practical prompt guide focused on helping professionals us
 - Clear intent
 - Structured thinking
 - Reusable prompt patterns
-- Productivity over novelty
+- Productivity prompts
 
 **Who this is for**
 - Professionals using AI daily
@@ -14,7 +14,6 @@ AI Prime Prompts is a practical prompt guide focused on helping professionals us
 - Anyone who wants better outcomes, not longer conversations
 
 **What this is not**
-- A list of gimmicks
 - A replacement for thinking
 - A model-specific cheat sheet
 
